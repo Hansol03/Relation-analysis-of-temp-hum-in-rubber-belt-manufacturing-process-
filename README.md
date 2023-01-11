@@ -2,4 +2,4 @@
 
 Data analysis how temperature and humidity affect viscosity and vulcanization at rubber belt matufacturing process
 
-DRB data project 
+from DRB data project 
